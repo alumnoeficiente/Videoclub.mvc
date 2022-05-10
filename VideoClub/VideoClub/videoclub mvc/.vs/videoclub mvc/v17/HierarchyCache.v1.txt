@@ -1,0 +1,281 @@
+﻿++Solución "videoclub mvc" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:videoclub mvc.sln
+++videoclub mvc
+i:{00000000-0000-0000-0000-000000000000}:videoclub mvc
+++Connected Services 
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:>931
+++Base de datos de SQL Server
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:>963
+++Dependencias
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:>930
+++Analizadores
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:analizadores
+++Marcos de trabajo
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:marcos de trabajo
+++Paquetes
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:paquetes
+++Microsoft.EntityFrameworkCore (7.0.0-preview.2.22153.1)
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:>943
+++Microsoft.EntityFrameworkCore.Design (7.0.0-preview.2.22153.1)
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:>945
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.0-preview.2.22153.1)
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:>944
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.3)
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:>947
+++Swashbuckle.AspNetCore (6.3.0)
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:>946
+++Properties
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\properties\
+++launchSettings.json
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\properties\launchsettings.json
+++wwwroot
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\
+++css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\css\
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\
+++site.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\css\site.css
+++js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\js\
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\
+++site.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\js\site.js
+++lib
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\
+++favicon.ico
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\favicon.ico
+++BasedeDatos
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\basededatos\
+++DataBaseContext.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\basededatos\databasecontext.cs
+++Controllers
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\controllers\
+++ClientesController.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\controllers\clientescontroller.cs
+++HomeController.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\controllers\homecontroller.cs
+++PeliculasController.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\controllers\peliculascontroller.cs
+++Migrations
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\migrations\
+++20220407072525_InitialModel.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\migrations\20220407072525_initialmodel.cs
+++20220407082137_AddMembershipType.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\migrations\20220407082137_addmembershiptype.cs
+++20220407082137_AddMembershipType.Designer.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\migrations\20220407082137_addmembershiptype.designer.cs
+++20220407085226_FillMembershipType.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\migrations\20220407085226_fillmembershiptype.cs
+++DataBaseContextModelSnapshot.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\migrations\databasecontextmodelsnapshot.cs
+++Models
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\models\
+++Cliente.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\models\cliente.cs
+++ErrorViewModel.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\models\errorviewmodel.cs
+++MembershipType.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\models\membershiptype.cs
+++Pelicula.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\models\pelicula.cs
+++Views
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\
+++Clientes
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\clientes\
+++Index.cshtml
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\clientes\index.cshtml
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\home\index.cshtml
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\peliculas\index.cshtml
+++Home
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\home\
+++Privacy.cshtml
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\home\privacy.cshtml
+++Peliculas
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\peliculas\
+++Shared
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\shared\
+++_Layout.cshtml
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\shared\_layout.cshtml
+++_NavBar.cshtml
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\shared\_navbar.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\_viewstart.cshtml
+++appsettings.json
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\appsettings.json
+++appsettings.Development.json
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\appsettings.development.json
+++Program.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\program.cs
+++Se detectó la dependencia Base de datos de SQL Server
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:>964
+++MessagePackAnalyzer
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0-preview.2.22153.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0-preview.2.22152.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\microsoft.netcore.app
+++bootstrap
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\
+++jquery
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery\
+++jquery-validation
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery-validation-unobtrusive\
+++20220407072525_InitialModel.Designer.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\migrations\20220407072525_initialmodel.designer.cs
+++20220407085226_FillMembershipType.Designer.cs
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\migrations\20220407085226_fillmembershiptype.designer.cs
+++_Layout.cshtml.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\views\shared\_layout.cshtml.css
+++dist
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery\dist\
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery\license.txt
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{755b68bb-887d-44c9-9bc1-5f377d8ba6da}:c:\users\educamosclm\desktop\videoclub\videoclub\videoclub mvc\videoclub mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map

@@ -1,0 +1,29 @@
+﻿@model videoclub_mvc.Models.Cliente
+@{
+    ViewData["Title"] = "New";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Nuevo Cliente</h2>
+
+@using (Html.BeginForm("Create", "Clientes"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Nombre)
+        @Html.TextBoxFor(m => m.Nombre, new { @class = "form-control"})
+    </div>
+     <div class="form-group">
+        @Html.LabelFor(m => m.Cumpleaños)
+        <label></label>
+        @Html.TextBoxFor(m => m.Cumpleaños, new { @class = "form-control"})
+    </div>
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(m => m.EstaSuscritoAlBoletinInformativo) ¿Está suscrito al Boletín informativo?
+        </label>
+    </div>
+    @* <div class="form-group">
+        @Html.LabelFor(m => m.Nombre)
+        @Html.TextBoxFor(m => m.Nombre, new { @class = "form-control"})
+    </div>*@
+}
