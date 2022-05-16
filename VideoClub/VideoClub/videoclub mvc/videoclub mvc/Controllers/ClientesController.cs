@@ -23,10 +23,15 @@ namespace videoclub_mvc.Controllers
             contexto.Dispose();
         }
 
-        public ActionResult New()
-        {
-            return View();
-        }
+        //public ActionResult New()
+        //{
+        //    var membershipTypes = _contexto.
+        //    return View();
+        //}
+        //public ViewResult Index()
+        //{
+        //    var clientes = contexto.Clientes.Include 
+        //}
         public ActionResult Index()
         {
             var clientes = contexto.Clientes.ToList();

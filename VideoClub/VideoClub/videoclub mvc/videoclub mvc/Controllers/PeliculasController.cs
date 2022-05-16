@@ -8,8 +8,8 @@ namespace videoclub_mvc.Controllers
         public IActionResult Aleatorio()
         {
             var pelicula = new Pelicula() { Id = 1, Titulo = "El Planeta de los Simios" };
-            //return View(pelicula);
-            return Content("hello caracola!");
+            return View(pelicula);
+            //return Content("hello caracola!");
         }
 
         //public IActionResult Aleatorio()

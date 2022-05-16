@@ -15,7 +15,7 @@ namespace videoclub_mvc.Models
         public bool EstaSuscritoAlBoletinInformativo { get; set; }
         public virtual MembershipType MembershipType { get; set; }
 
-        [Display(Name = "Membership Type")]
+        [Display(Name = "Tipo de Membresia")]
         public byte MembershipId { get; set; }
         [Display(Name = "Cumpleaños")]
         public DateTime? Cumpleaños { get; set; }
